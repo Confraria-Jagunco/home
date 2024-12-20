@@ -107,7 +107,15 @@ footer>img {
         padding: 0.8rem 1rem;
     }
 
+    header>img {
+        width: 12rem;
+    }
+
     main {
         margin: 0 0 2rem 0;
+    }
+
+    .postedNews>div {
+        width: 90%;
     }
 }
